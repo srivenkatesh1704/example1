@@ -1,0 +1,7 @@
+#! /bin/bash -x
+#adding
+a=$(( 12+21 ))
+#subracting
+b=$(( 21-13 ))
+#multiplication
+
